@@ -13,6 +13,7 @@ I'm always happy to hop on a call and meet new people, If you're interested, fee
 - LinkedIn - [dapeet](https://www.linkedin.com/in/dapeet/)
 - Email - [dapeet@uwaterloo.ca](mailto:dapeet@uwaterloo.ca?subject=Hello!)
 
+![visitors](https://davidpeet8-visitors.herokuapp.com/badge?page_id=davidpeet8.davidpeet8)
 <!--
 **DavidPeet8/davidpeet8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
