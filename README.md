@@ -1,14 +1,18 @@
 # 👋 Hi! 
 
-I'm a 3rd year CS student at the University of Waterloo. I'm an implementation nut 🤓. I'm always curious how software taken for granted works internally, which is probably pretty evident in some of the projects I have pursued, specifically my [memory sanitizer](https://github.com/DavidPeet8/Memory-Sanitizer). 
+I'm a 3rd year CS student at the University of Waterloo. I'm interested in a broad range of fields in technology, from processor design to AI, but I'm actively pursuing systems development & backend web development. In my spare time, I'm interested in sports, strategy games, and cooking.
 
 Check out my [website](https://website.davidpeet.md) for more on what I'm tinkering with now!
 
-**Previously:** `@Axonify` `@McAfee` `@Huawei`
+## 🛠️ Experience
+- [`@Huawei`](https://www.huawei.com/en/) - Lightweight Cryptography Team (2021)
+- [`@Huawei`](https://www.huawei.com/en/) - GPU Compiler Development Team (2020)
+- [`@McAfee`](https://www.mcafee.com/en-gb/antivirus.html) - Installer Team (2020)
+- [`@Axonify`](https://axonify.com/) - Software Teveloper (2019)
 
 ## Say Hello!
 
-I'm always happy to hop on a call and meet new people, If you're interested, feel free to reach out!
+I'm always happy to hop on a call and meet new people; if you're interested, feel free to reach out!
 
 - LinkedIn - [dapeet](https://www.linkedin.com/in/dapeet/)
 - Email - [dapeet@uwaterloo.ca](mailto:dapeet@uwaterloo.ca?subject=Hello!)
