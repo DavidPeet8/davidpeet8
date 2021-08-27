@@ -2,7 +2,7 @@
 
 I'm a 3rd year CS student at the University of Waterloo. I'm interested in a broad range of fields in technology, from processor design to AI, but I'm actively pursuing systems development & backend web development. In my spare time, I'm interested in sports, strategy games, and cooking.
 
-Check out my [website](https://website.davidpeet.md) for more on what I'm tinkering with now!
+Check out my [website](https://website.davidpeet.me) for more on what I'm tinkering with now!
 
 ## 🛠️ Experience
 - [`@Huawei`](https://www.huawei.com/en/) - Lightweight Cryptography Team (2021)
