@@ -1,14 +1,16 @@
 # 👋 Hi! 
 
-I'm a 3rd year CS student at the University of Waterloo. I'm interested in a broad range of fields in technology, from processor design to AI, but I'm actively pursuing systems development & backend web development. In my spare time, I'm interested in sports, strategy games, and cooking.
+I'm a 4th year CS student at the University of Waterloo. I'm interested in a broad range of fields in technology, from processor design to AI, but I'm actively pursuing systems development & backend web development. In my spare time, you will find me playing sports, strategy games, or cooking.
 
 Check out my [website](https://website.davidpeet.me) for more on what I'm tinkering with now!
 
 ## 🛠️ Experience
-- [`@Huawei`](https://www.huawei.com/en/) - Lightweight Cryptography Team (2021)
-- [`@Huawei`](https://www.huawei.com/en/) - GPU Compiler Development Team (2020)
-- [`@McAfee`](https://www.mcafee.com/en-gb/antivirus.html) - Installer Team (2020)
-- [`@Axonify`](https://axonify.com/) - Software Teveloper (2019)
+- [`@HRT`](https://www.hudsonrivertrading.com/) - Core Engineering (2022 - Incoming)
+- [`@Uber`](https://www.uber.com) - Software Networking Edge (2022)
+- [`@Huawei`](https://www.huawei.com/) - Lightweight Cryptography (2021)
+- [`@Huawei`](https://www.huawei.com/) - GPU Compiler Development (2020)
+- [`@McAfee`](https://www.mcafee.com/) - Installer Team (2020)
+- [`@Axonify`](https://axonify.com/) - Software Developer (2019)
 
 ## Say Hello!
 
