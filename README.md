@@ -1,6 +1,6 @@
 # 👋 Hi! 
 
-I'm a 4th year CS student at the University of Waterloo. I'm interested in a broad range of fields in technology, from processor design to AI, but I'm actively pursuing systems development & backend web development. In my spare time, you will find me playing sports, strategy games, or cooking.
+I'm a 4th year CS student at the University of Waterloo. I'm interested in a broad range of fields in technology, from processor design to AI, but I'm actively pursuing systems & infrastructure development. In my spare time, you will find me playing sports, strategy games, or cooking.
 
 Check out my [website](https://website.davidpeet.me) for more on what I'm tinkering with now!
 
@@ -17,7 +17,7 @@ Check out my [website](https://website.davidpeet.me) for more on what I'm tinker
 I'm always happy to hop on a call and meet new people; if you're interested, feel free to reach out!
 
 - LinkedIn - [dapeet](https://www.linkedin.com/in/dapeet/)
-- Email - [dapeet@uwaterloo.ca](mailto:dapeet@uwaterloo.ca?subject=Hello!)
+- Email - [dapeet@uwaterloo.ca](mailto:davidpeet@tutanota.com?subject=Hello!)
 
 ![visitors](https://davidpeet8-visitors.herokuapp.com/badge?page_id=davidpeet8.davidpeet8)
 <!--
