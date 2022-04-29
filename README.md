@@ -17,7 +17,7 @@ Check out my [website](https://website.davidpeet.me) for more on what I'm tinker
 I'm always happy to hop on a call and meet new people; if you're interested, feel free to reach out!
 
 - LinkedIn - [dapeet](https://www.linkedin.com/in/dapeet/)
-- Email - [dapeet@uwaterloo.ca](mailto:davidpeet@tutanota.com?subject=Hello!)
+- Email - [davidpeet@tutanota.com](mailto:davidpeet@tutanota.com?subject=Hello!)
 
 ![visitors](https://davidpeet8-visitors.herokuapp.com/badge?page_id=davidpeet8.davidpeet8)
 <!--
