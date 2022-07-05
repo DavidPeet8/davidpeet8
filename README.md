@@ -5,7 +5,7 @@ I'm a 4th year CS student at the University of Waterloo. I'm interested in a bro
 Check out my [website](https://website.davidpeet.me) for more on what I'm tinkering with now!
 
 ## 🛠️ Experience
-- [`@HRT`](https://www.hudsonrivertrading.com/) - Core Engineering (2022 - Incoming)
+- [`@HRT`](https://www.hudsonrivertrading.com/) - Core Engineering (2022)
 - [`@Uber`](https://www.uber.com) - Software Networking Edge (2022)
 - [`@Huawei`](https://www.huawei.com/) - Lightweight Cryptography (2021)
 - [`@Huawei`](https://www.huawei.com/) - GPU Compiler Development (2020)
