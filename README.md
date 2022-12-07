@@ -14,9 +14,9 @@ Check out my [website](https://website.davidpeet.me) for more on what I'm tinker
 - **Core Engineer** - [`@HRT`](https://www.hudsonrivertrading.com/) - Distributed Systems & Graph Compute (2022)
 - **Software Engineer** - [`@Uber`](https://www.uber.com) - Software Networking Edge (2022)
 - **Linux Kernel / Application Developer** - [`@Huawei`](https://www.huawei.com/) - Lightweight Cryptography (2021)
-- **Compiler Software Engineer Intern** - [`@Huawei`](https://www.huawei.com/) - GPU Compiler Development (2020)
-- **Software Developer Intern** - [`@McAfee`](https://www.mcafee.com/) - Installers (2020)
-- **Software Developer Intern** - [`@Axonify`](https://axonify.com/) - Guided Learning (2019)
+- **Compiler Software Engineer** - [`@Huawei`](https://www.huawei.com/) - GPU Compiler Development (2020)
+- **Software Developer** - [`@McAfee`](https://www.mcafee.com/) - Installers (2020)
+- **Software Developer** - [`@Axonify`](https://axonify.com/) - Guided Learning (2019)
 
 ## 💬 Say Hello!
 
