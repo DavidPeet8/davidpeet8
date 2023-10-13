@@ -1,6 +1,6 @@
 # 👋 Hi! 
 
-I'm a 4th year CS student at the University of Waterloo. I'm interested in a broad range of fields in technology, from processor design to AI, but I'm actively pursuing systems & infrastructure development. In my spare time, you will find me playing sports, strategy games, or cooking.
+I'm a CS alumni from the University of Waterloo. I'm interested in a broad range of fields in technology, from processor design to AI, but I'm actively pursuing systems & infrastructure development. In my spare time, you will find me playing sports, strategy games, or cooking.
 
 Check out my [website](https://website.davidpeet.me) for more on what I'm tinkering with now!
 
