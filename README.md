@@ -6,7 +6,7 @@ Check out my [website](https://website.davidpeet.me) for more on what I'm tinker
 
 ## 🛠️ Full Time Experience
 
-- **Software Engineer II** - [`@Uber`](https://www.uber.com) - Software Networking Edge (Starting 2023)
+- **Software Engineer II** - [`@Uber`](https://www.uber.com) - Software Networking Edge (2023 - Present)
 
 ## 🛠️ Internships
 
